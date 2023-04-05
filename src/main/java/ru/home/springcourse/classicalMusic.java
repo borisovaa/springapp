@@ -5,4 +5,5 @@ public class classicalMusic implements Music{
     public String getSong() {
         return "Венгерская рапсодия";
     }
+
 }
