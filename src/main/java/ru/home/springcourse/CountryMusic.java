@@ -1,6 +1,6 @@
 package ru.home.springcourse;
 
-public class countryMusic implements Music {
+public class CountryMusic implements Music {
 
     @Override
     public String getSong() {

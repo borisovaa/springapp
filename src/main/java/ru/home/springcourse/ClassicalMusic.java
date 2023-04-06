@@ -1,6 +1,6 @@
 package ru.home.springcourse;
 
-public class classicalMusic implements Music{
+public class ClassicalMusic implements Music{
 
     // ПРОВЕРКА РАБОТЫ ГИТ
 
